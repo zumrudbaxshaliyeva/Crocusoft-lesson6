@@ -41,4 +41,3 @@ Asinxron funksiya yaradaraq verilen endpointden datani cekerek logda gosteririk.
     quantity: 20
   }
    Output: 1984 George Orwell 9780451524935 Dystopian 9.99 20                          
-   readdme.md faylinda yaz github ucun
